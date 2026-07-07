@@ -1,1 +1,1 @@
-# Git Workflow Midterm Lab
+# Git Workflow Midterm Lab - Contact Page Version
