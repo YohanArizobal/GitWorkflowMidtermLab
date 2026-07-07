@@ -1,4 +1,4 @@
-# Git Workflow Midterm Lab
+# Git Workflow Midterm Lab - Contact Page Version
 ## Setup Instructions
 ## Usage Guide
 ## FAQ

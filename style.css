@@ -1,1 +1,4 @@
 body { font-family: Arial; }
+.banner { color: blue; }
+.nav { display: flex; }
+.form { border: 1px solid gray; }
